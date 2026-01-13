@@ -13,7 +13,7 @@ This project analyzes transaction-level e-commerce data, including user demograp
 The project demonstrates key data analytics skills, including data cleaning, exploratory data analysis (EDA), visualization, and interpretation of results in a business-oriented context.
 
 ## Data
-* **Source**: `e-commerce_analysis_dataset.csv` (synthetic dataset stored locally in this repository)
+* **Source**: `e-commerce_analysis_dataset.csv` (synthetic dataset stored locally in this repository and available on Kaggle https://www.kaggle.com/datasets/refiaozturk/online-shopping-dataset)
 * **Note**: The dataset was generated using ChatGPT to resemble realistic purchasing behaviour. While it does not represent real customer data, it is suitable for practicing data cleaning, exploratory analysis, and decision-oriented reasoning.
  
 ## Key Columns:
