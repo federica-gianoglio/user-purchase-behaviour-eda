@@ -1,19 +1,19 @@
 # About the E-commerce Purchases Analysis
 **Author**: Federica Gianoglio 
 
-**GitHub**: https://github.com/federica-gianoglio/e-commerce-analysis/
+**GitHub**: 
 
-**Description**: Exploratory analysis of e-commerce purchases to assess the impact of demographics and product categories on spending behaviour.
+**Description**: Exploratory analysis of user purchases to assess the impact of demographics and product categories on spending behaviour.
 
 ## Project Overview
-This project analyzes transaction-level e-commerce data, including user demographics and purchasing behaviour, to answer the following research question:
+This project analyzes transaction-level purchase data, including user demographics and purchasing behaviour, to answer the following research question:
 
 **How do demographics and product categories influence purchase behaviour?**
 
-The project demonstrates key data analytics skills, including data cleaning, exploratory data analysis (EDA), visualization, and interpretation of results in a business-oriented context.
+The project demonstrates key data analytics skills, including data cleaning and preparation, exploratory data analysis (EDA), visualization, and interpretation of results in a business-oriented context.
 
 ## Data
-* **Source**: `e-commerce_analysis_dataset.csv` (synthetic dataset stored locally in this repository and available on Kaggle https://www.kaggle.com/datasets/refiaozturk/online-shopping-dataset)
+* **Source**: `user_purchase_behaviour_dataset.csv` (synthetic dataset stored locally in this repository and available on Kaggle https://www.kaggle.com/datasets/refiaozturk/online-shopping-dataset)
 * **Note**: The dataset was generated using ChatGPT to resemble realistic purchasing behaviour. While it does not represent real customer data, it is suitable for practicing data cleaning, exploratory analysis, and decision-oriented reasoning.
  
 ## Key Columns:
